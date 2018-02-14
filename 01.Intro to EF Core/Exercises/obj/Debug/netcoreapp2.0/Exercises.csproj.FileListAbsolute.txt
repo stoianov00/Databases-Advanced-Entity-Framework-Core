@@ -1,0 +1,22 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\bin\Debug\netcoreapp2.0\Exercises.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\bin\Debug\netcoreapp2.0\Exercises.runtimeconfig.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\bin\Debug\netcoreapp2.0\Exercises.runtimeconfig.dev.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\bin\Debug\netcoreapp2.0\Exercises.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\obj\Debug\netcoreapp2.0\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\obj\Debug\netcoreapp2.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\obj\Debug\netcoreapp2.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\obj\Debug\netcoreapp2.0\Exercises.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\bin\Debug\netcoreapp2.0\Exercises.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\obj\Debug\netcoreapp2.0\Exercises.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\01.Intro to EFCore\Exercises\obj\Debug\netcoreapp2.0\Exercises.pdb
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\bin\Debug\netcoreapp2.0\Exercises.deps.json
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\bin\Debug\netcoreapp2.0\Exercises.runtimeconfig.json
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\bin\Debug\netcoreapp2.0\Exercises.runtimeconfig.dev.json
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\bin\Debug\netcoreapp2.0\Exercises.dll
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\bin\Debug\netcoreapp2.0\Exercises.pdb
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\obj\Debug\netcoreapp2.0\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\obj\Debug\netcoreapp2.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\obj\Debug\netcoreapp2.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\obj\Debug\netcoreapp2.0\Exercises.AssemblyInfo.cs
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\obj\Debug\netcoreapp2.0\Exercises.dll
+C:\Users\Ss\Desktop\01.Intro to EFCore\01.Intro to EF Core\Exercises\obj\Debug\netcoreapp2.0\Exercises.pdb
