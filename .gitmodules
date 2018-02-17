@@ -1,0 +1,3 @@
+[submodule "03.EF"]
+	path = 03.EF
+	url = https://github.com/stoianov00/Databases-Advanced-Entity-Framework-Core.git
