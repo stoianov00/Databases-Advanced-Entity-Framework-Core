@@ -1,0 +1,9 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem.Data\bin\Debug\netcoreapp2.0\01.StudentSystem.Data.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem.Data\bin\Debug\netcoreapp2.0\01.StudentSystem.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem.Data\obj\Debug\netcoreapp2.0\01.StudentSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem.Data\obj\Debug\netcoreapp2.0\01.StudentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem.Data\obj\Debug\netcoreapp2.0\01.StudentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem.Data\obj\Debug\netcoreapp2.0\01.StudentSystem.Data.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem.Data\bin\Debug\netcoreapp2.0\01.StudentSystem.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem.Data\obj\Debug\netcoreapp2.0\01.StudentSystem.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem.Data\obj\Debug\netcoreapp2.0\01.StudentSystem.Data.pdb

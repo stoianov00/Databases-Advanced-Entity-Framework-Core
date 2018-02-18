@@ -1,0 +1,13 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\bin\Debug\netcoreapp2.0\01.StudentSystem.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\bin\Debug\netcoreapp2.0\01.StudentSystem.runtimeconfig.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\bin\Debug\netcoreapp2.0\01.StudentSystem.runtimeconfig.dev.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\bin\Debug\netcoreapp2.0\01.StudentSystem.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\bin\Debug\netcoreapp2.0\01.StudentSystem.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\obj\Debug\netcoreapp2.0\01.StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\obj\Debug\netcoreapp2.0\01.StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\obj\Debug\netcoreapp2.0\01.StudentSystem.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\obj\Debug\netcoreapp2.0\01.StudentSystem.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\obj\Debug\netcoreapp2.0\01.StudentSystem.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\obj\Debug\netcoreapp2.0\01.StudentSystem.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\bin\Debug\netcoreapp2.0\01.StudentSystem.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\01.StudentSystem\bin\Debug\netcoreapp2.0\01.StudentSystem.Data.pdb

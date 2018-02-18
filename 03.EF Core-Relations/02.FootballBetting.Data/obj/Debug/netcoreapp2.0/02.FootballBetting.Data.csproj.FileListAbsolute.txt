@@ -1,0 +1,11 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\bin\Debug\netcoreapp2.0\02.FootballBetting.Data.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\bin\Debug\netcoreapp2.0\02.FootballBetting.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\obj\Debug\netcoreapp2.0\02.FootballBetting.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\obj\Debug\netcoreapp2.0\02.FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\obj\Debug\netcoreapp2.0\02.FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\obj\Debug\netcoreapp2.0\02.FootballBetting.Data.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\bin\Debug\netcoreapp2.0\02.FootballBetting.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\bin\Debug\netcoreapp2.0\02.FootballBetting.Data.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\bin\Debug\netcoreapp2.0\02.FootballBetting.Data.Models.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\obj\Debug\netcoreapp2.0\02.FootballBetting.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\03.EF Core-Relations\02.FootballBetting.Data\obj\Debug\netcoreapp2.0\02.FootballBetting.Data.pdb
