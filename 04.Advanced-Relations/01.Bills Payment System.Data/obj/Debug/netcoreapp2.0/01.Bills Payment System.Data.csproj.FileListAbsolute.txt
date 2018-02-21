@@ -1,0 +1,9 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System.Data\bin\Debug\netcoreapp2.0\01.Bills Payment System.Data.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System.Data\bin\Debug\netcoreapp2.0\01.Bills Payment System.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System.Data\obj\Debug\netcoreapp2.0\01.Bills Payment System.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System.Data\obj\Debug\netcoreapp2.0\01.Bills Payment System.Data.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System.Data\obj\Debug\netcoreapp2.0\01.Bills Payment System.Data.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System.Data\obj\Debug\netcoreapp2.0\01.Bills Payment System.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System.Data\bin\Debug\netcoreapp2.0\01.Bills Payment System.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System.Data\obj\Debug\netcoreapp2.0\01.Bills Payment System.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System.Data\obj\Debug\netcoreapp2.0\01.Bills Payment System.Data.pdb

@@ -1,0 +1,13 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\bin\Debug\netcoreapp2.0\01.Bills Payment System.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\obj\Debug\netcoreapp2.0\01.Bills Payment System.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\obj\Debug\netcoreapp2.0\01.Bills Payment System.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\obj\Debug\netcoreapp2.0\01.Bills Payment System.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\obj\Debug\netcoreapp2.0\01.Bills Payment System.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\bin\Debug\netcoreapp2.0\01.Bills Payment System.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\bin\Debug\netcoreapp2.0\01.Bills Payment System.runtimeconfig.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\bin\Debug\netcoreapp2.0\01.Bills Payment System.runtimeconfig.dev.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\bin\Debug\netcoreapp2.0\01.Bills Payment System.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\bin\Debug\netcoreapp2.0\01.Bills Payment System.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\bin\Debug\netcoreapp2.0\01.Bills Payment System.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\obj\Debug\netcoreapp2.0\01.Bills Payment System.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\04.Advanced-Relations\01.Bills Payment System\obj\Debug\netcoreapp2.0\01.Bills Payment System.pdb
