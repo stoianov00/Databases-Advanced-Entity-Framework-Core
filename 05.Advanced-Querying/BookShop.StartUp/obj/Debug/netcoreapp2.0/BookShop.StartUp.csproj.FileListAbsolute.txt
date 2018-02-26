@@ -1,0 +1,17 @@
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.deps.json
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.runtimeconfig.json
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.runtimeconfig.dev.json
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.pdb
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.AssemblyInfoInputs.cache
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.AssemblyInfo.cs
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.pdb

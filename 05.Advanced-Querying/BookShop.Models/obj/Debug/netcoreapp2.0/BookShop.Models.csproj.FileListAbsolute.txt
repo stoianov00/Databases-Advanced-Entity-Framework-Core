@@ -1,0 +1,9 @@
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.deps.json
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfo.cs
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.pdb

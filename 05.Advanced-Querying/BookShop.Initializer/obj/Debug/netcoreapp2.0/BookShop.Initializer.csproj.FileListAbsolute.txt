@@ -1,0 +1,17 @@
+C:\Users\Ss\Desktop\New folder\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Desktop\New folder\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Desktop\New folder\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\Users\Ss\Desktop\New folder\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfo.cs
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.deps.json
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfo.cs
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Ss\Desktop\05.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.pdb
