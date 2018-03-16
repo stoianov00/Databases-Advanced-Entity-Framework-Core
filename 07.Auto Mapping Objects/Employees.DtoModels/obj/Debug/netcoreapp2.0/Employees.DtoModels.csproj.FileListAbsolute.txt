@@ -1,0 +1,9 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.DtoModels\bin\Debug\netcoreapp2.0\Employees.DtoModels.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.DtoModels\bin\Debug\netcoreapp2.0\Employees.DtoModels.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.DtoModels\bin\Debug\netcoreapp2.0\Employees.DtoModels.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.pdb
