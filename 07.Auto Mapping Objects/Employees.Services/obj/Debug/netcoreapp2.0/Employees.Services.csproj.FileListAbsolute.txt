@@ -1,0 +1,15 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\bin\Debug\netcoreapp2.0\Employees.DtoModels.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\bin\Debug\netcoreapp2.0\Employees.DtoModels.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\07.Auto Mapping Objects\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.pdb
