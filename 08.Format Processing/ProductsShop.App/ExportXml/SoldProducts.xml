@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user first-name="Gloria" last-name="Alexander" />
+  <sold-product>
+    <product>
+      <name>{ Name = ANXIETY/STRESS RELIEF, Price = 324.66 }{ Name = Naproxen, Price = 807.22 }{ Name = kirkland signature minoxidil, Price = 49.17 }</name>
+      <price>{ Name = ANXIETY/STRESS RELIEF, Price = 324.66 }{ Name = Naproxen, Price = 807.22 }{ Name = kirkland signature minoxidil, Price = 49.17 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Fred" last-name="Allen" />
+  <sold-product>
+    <product>
+      <name>{ Name = Hydralazine Hydrochloride, Price = 1309.72 }{ Name = ziprasidone hydrochloride, Price = 628.66 }{ Name = No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory, Price = 616.19 }{ Name = PRIMAXIN, Price = 686.66 }{ Name = Ringers, Price = 1054.37 }</name>
+      <price>{ Name = Hydralazine Hydrochloride, Price = 1309.72 }{ Name = ziprasidone hydrochloride, Price = 628.66 }{ Name = No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory, Price = 616.19 }{ Name = PRIMAXIN, Price = 686.66 }{ Name = Ringers, Price = 1054.37 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Baker" />
+  <sold-product>
+    <product>
+      <name>{ Name = Ibuprofen, Price = 1088.04 }{ Name = Parsley, Price = 519.06 }{ Name = SEPHORA Acne-Fighting Mattifying Moisturizer, Price = 1019.28 }{ Name = Levothyroxine Sodium, Price = 885.86 }</name>
+      <price>{ Name = Ibuprofen, Price = 1088.04 }{ Name = Parsley, Price = 519.06 }{ Name = SEPHORA Acne-Fighting Mattifying Moisturizer, Price = 1019.28 }{ Name = Levothyroxine Sodium, Price = 885.86 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Fred" last-name="Barnes" />
+  <sold-product>
+    <product>
+      <name>{ Name = up and up temporary minor arthritis pain relief, Price = 1085.78 }{ Name = Oxygen, Price = 1242.92 }</name>
+      <price>{ Name = up and up temporary minor arthritis pain relief, Price = 1085.78 }{ Name = Oxygen, Price = 1242.92 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Bennett" />
+  <sold-product>
+    <product>
+      <name>{ Name = Topiramate, Price = 578.77 }{ Name = Meloxicam, Price = 809.18 }{ Name = Amlodipine Besylate, Price = 122.57 }{ Name = CEDAX, Price = 342.86 }</name>
+      <price>{ Name = Topiramate, Price = 578.77 }{ Name = Meloxicam, Price = 809.18 }{ Name = Amlodipine Besylate, Price = 122.57 }{ Name = CEDAX, Price = 342.86 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Anna" last-name="Clark" />
+  <sold-product>
+    <product>
+      <name>{ Name = Fair Foundation SPF 15, Price = 1394.24 }{ Name = Acid Reducer, Price = 1443.51 }{ Name = Labetalol hydrochloride, Price = 436.38 }{ Name = Albuterol, Price = 108.95 }{ Name = Dawn Ultra Antibacterial Hand, Price = 969.86 }</name>
+      <price>{ Name = Fair Foundation SPF 15, Price = 1394.24 }{ Name = Acid Reducer, Price = 1443.51 }{ Name = Labetalol hydrochloride, Price = 436.38 }{ Name = Albuterol, Price = 108.95 }{ Name = Dawn Ultra Antibacterial Hand, Price = 969.86 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Doris" last-name="Cook" />
+  <sold-product>
+    <product>
+      <name>{ Name = Fluoxetine, Price = 385.37 }{ Name = Nighttime Sleep Aid, Price = 1217.11 }{ Name = Goats Milk, Price = 298.53 }{ Name = Gilotrif, Price = 1454.77 }{ Name = Isosorbide Mononitrate, Price = 789.91 }{ Name = Flumazenil, Price = 1151.37 }</name>
+      <price>{ Name = Fluoxetine, Price = 385.37 }{ Name = Nighttime Sleep Aid, Price = 1217.11 }{ Name = Goats Milk, Price = 298.53 }{ Name = Gilotrif, Price = 1454.77 }{ Name = Isosorbide Mononitrate, Price = 789.91 }{ Name = Flumazenil, Price = 1151.37 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Patricia" last-name="Cooper" />
+  <sold-product>
+    <product>
+      <name>{ Name = Warfarin Sodium, Price = 138.83 }{ Name = Homeopathic Rheumatism, Price = 967.08 }</name>
+      <price>{ Name = Warfarin Sodium, Price = 138.83 }{ Name = Homeopathic Rheumatism, Price = 967.08 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Cunningham" />
+  <sold-product>
+    <product>
+      <name>{ Name = Amitiza, Price = 666.58 }{ Name = CALMING DIAPER RASH, Price = 700.92 }{ Name = Foaming Hand Sanitizer, Price = 624.72 }{ Name = Smooth texture Orange flavor, Price = 976.65 }{ Name = Megestrol Acetate, Price = 976.15 }{ Name = BareMinerals Golden Tan matte, Price = 110.93 }{ Name = PANTOPRAZOLE SODIUM, Price = 293.89 }</name>
+      <price>{ Name = Amitiza, Price = 666.58 }{ Name = CALMING DIAPER RASH, Price = 700.92 }{ Name = Foaming Hand Sanitizer, Price = 624.72 }{ Name = Smooth texture Orange flavor, Price = 976.65 }{ Name = Megestrol Acetate, Price = 976.15 }{ Name = BareMinerals Golden Tan matte, Price = 110.93 }{ Name = PANTOPRAZOLE SODIUM, Price = 293.89 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Carl" last-name="Daniels" />
+  <sold-product>
+    <product>
+      <name>{ Name = Pollens - Trees, Birch Mix, Price = 1153.54 }{ Name = ropinirole hydrochloride, Price = 103.58 }{ Name = Fosphenytoin Sodium, Price = 1334.06 }</name>
+      <price>{ Name = Pollens - Trees, Birch Mix, Price = 1153.54 }{ Name = ropinirole hydrochloride, Price = 103.58 }{ Name = Fosphenytoin Sodium, Price = 1334.06 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Sarah" last-name="Day" />
+  <sold-product>
+    <product>
+      <name>{ Name = IOPE SUPER VITAL, Price = 824.68 }</name>
+      <price>{ Name = IOPE SUPER VITAL, Price = 824.68 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Clarence" last-name="Fowler" />
+  <sold-product>
+    <product>
+      <name>{ Name = ENBREL, Price = 673.97 }{ Name = CVS Therapeutic Menthol Pain Reliever, Price = 1033.42 }{ Name = TRAMADOL HYDROCHLORIDE, Price = 516.48 }</name>
+      <price>{ Name = ENBREL, Price = 673.97 }{ Name = CVS Therapeutic Menthol Pain Reliever, Price = 1033.42 }{ Name = TRAMADOL HYDROCHLORIDE, Price = 516.48 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Fox" />
+  <sold-product>
+    <product>
+      <name>{ Name = PCA SKIN ACNE, Price = 1356.22 }{ Name = Fexofenadine HCl and Pseudoephedrine HCI, Price = 73.07 }</name>
+      <price>{ Name = PCA SKIN ACNE, Price = 1356.22 }{ Name = Fexofenadine HCl and Pseudoephedrine HCI, Price = 73.07 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Bonnie" last-name="Fox" />
+  <sold-product>
+    <product>
+      <name>{ Name = Triamterene and Hydrochlorothiazide, Price = 1416.59 }</name>
+      <price>{ Name = Triamterene and Hydrochlorothiazide, Price = 1416.59 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Amanda" last-name="Frazier" />
+  <sold-product>
+    <product>
+      <name>{ Name = Aspen, Price = 1046.46 }{ Name = leader pain reliever, Price = 1179.79 }{ Name = MEDICATED DANDRUFF, Price = 1351.02 }{ Name = Ampicillin, Price = 674.63 }</name>
+      <price>{ Name = Aspen, Price = 1046.46 }{ Name = leader pain reliever, Price = 1179.79 }{ Name = MEDICATED DANDRUFF, Price = 1351.02 }{ Name = Ampicillin, Price = 674.63 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Brandon" last-name="Fuller" />
+  <sold-product>
+    <product>
+      <name>{ Name = DIPYRIDAMOLE, Price = 1150.67 }{ Name = EMEND, Price = 1365.51 }{ Name = PredniSONE, Price = 286.43 }</name>
+      <price>{ Name = DIPYRIDAMOLE, Price = 1150.67 }{ Name = EMEND, Price = 1365.51 }{ Name = PredniSONE, Price = 286.43 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Patricia" last-name="Fuller" />
+  <sold-product>
+    <product>
+      <name>{ Name = Perrigo Benzoyl Peroxide, Price = 873.24 }{ Name = TERSI, Price = 554.91 }{ Name = cough and sore throat, Price = 1482.68 }</name>
+      <price>{ Name = Perrigo Benzoyl Peroxide, Price = 873.24 }{ Name = TERSI, Price = 554.91 }{ Name = cough and sore throat, Price = 1482.68 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Kathy" last-name="Gilbert" />
+  <sold-product>
+    <product>
+      <name>{ Name = MOIST MOISTURE SKIN TONER, Price = 152.43 }{ Name = Archangelica Eucalyptus, Price = 1334.91 }{ Name = Effervescent Cold Relief, Price = 1436.07 }{ Name = Ondansetron, Price = 1249.76 }{ Name = Stila Hydrating Primer Oil-Free SPF 30, Price = 179.28 }{ Name = Metformin Hydrochloride, Price = 953.99 }{ Name = ORCHID SECRET PACT, Price = 59.53 }</name>
+      <price>{ Name = MOIST MOISTURE SKIN TONER, Price = 152.43 }{ Name = Archangelica Eucalyptus, Price = 1334.91 }{ Name = Effervescent Cold Relief, Price = 1436.07 }{ Name = Ondansetron, Price = 1249.76 }{ Name = Stila Hydrating Primer Oil-Free SPF 30, Price = 179.28 }{ Name = Metformin Hydrochloride, Price = 953.99 }{ Name = ORCHID SECRET PACT, Price = 59.53 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Christine" last-name="Gomez" />
+  <sold-product>
+    <product>
+      <name>{ Name = Cefadroxil, Price = 1302.20 }{ Name = Protonix, Price = 466.70 }{ Name = Butalbital, Aspirin and Caffeine, Price = 1010.98 }</name>
+      <price>{ Name = Cefadroxil, Price = 1302.20 }{ Name = Protonix, Price = 466.70 }{ Name = Butalbital, Aspirin and Caffeine, Price = 1010.98 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Nicole" last-name="Harris" />
+  <sold-product>
+    <product>
+      <name>{ Name = allergy eye, Price = 426.91 }{ Name = Carbon Dioxide Oxygen Mixture, Price = 95.49 }{ Name = Allopurinol, Price = 518.50 }{ Name = CHAMOMILLA, Price = 37.97 }</name>
+      <price>{ Name = allergy eye, Price = 426.91 }{ Name = Carbon Dioxide Oxygen Mixture, Price = 95.49 }{ Name = Allopurinol, Price = 518.50 }{ Name = CHAMOMILLA, Price = 37.97 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Wanda" last-name="Harris" />
+  <sold-product>
+    <product>
+      <name>{ Name = Gemcitabine, Price = 594.79 }{ Name = Pleo Ginkgo, Price = 613.65 }{ Name = DIVALPROEX SODIUM, Price = 1287.03 }{ Name = LANEIGE MYSTIC VEIL FOUNDATION, Price = 20.86 }</name>
+      <price>{ Name = Gemcitabine, Price = 594.79 }{ Name = Pleo Ginkgo, Price = 613.65 }{ Name = DIVALPROEX SODIUM, Price = 1287.03 }{ Name = LANEIGE MYSTIC VEIL FOUNDATION, Price = 20.86 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Harrison" />
+  <sold-product>
+    <product>
+      <name>{ Name = Trihexyphenidyl Hydrochloride, Price = 64.88 }{ Name = Diastat, Price = 614.14 }</name>
+      <price>{ Name = Trihexyphenidyl Hydrochloride, Price = 64.88 }{ Name = Diastat, Price = 614.14 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Diana" last-name="Harvey" />
+  <sold-product>
+    <product>
+      <name>{ Name = ESIKA, Price = 879.37 }{ Name = ENALAPRIL MALEATE, Price = 210.42 }</name>
+      <price>{ Name = ESIKA, Price = 879.37 }{ Name = ENALAPRIL MALEATE, Price = 210.42 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Benjamin" last-name="Henry" />
+  <sold-product>
+    <product>
+      <name>{ Name = Allopurinol, Price = 48.80 }{ Name = Enchanted Moments Mistletoe Kisses Hand Sanitizer, Price = 384.99 }{ Name = Gehwol med Lipidro, Price = 421.24 }</name>
+      <price>{ Name = Allopurinol, Price = 48.80 }{ Name = Enchanted Moments Mistletoe Kisses Hand Sanitizer, Price = 384.99 }{ Name = Gehwol med Lipidro, Price = 421.24 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Jean" last-name="Henry" />
+  <sold-product>
+    <product>
+      <name>{ Name = Topical 60 Sec Sodium Fluoride, Price = 1228.84 }{ Name = Leflunomide, Price = 312.85 }</name>
+      <price>{ Name = Topical 60 Sec Sodium Fluoride, Price = 1228.84 }{ Name = Leflunomide, Price = 312.85 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Paula" last-name="Hill" />
+  <sold-product>
+    <product>
+      <name>{ Name = Laser Block 100, Price = 1135.43 }{ Name = ISOPROPYL ALCOHOL, Price = 339.48 }{ Name = AMARANTHUS PALMERI POLLEN, Price = 623.16 }</name>
+      <price>{ Name = Laser Block 100, Price = 1135.43 }{ Name = ISOPROPYL ALCOHOL, Price = 339.48 }{ Name = AMARANTHUS PALMERI POLLEN, Price = 623.16 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Brenda" last-name="Howell" />
+  <sold-product>
+    <product>
+      <name>{ Name = pain relief, Price = 938.23 }</name>
+      <price>{ Name = pain relief, Price = 938.23 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Rachel" last-name="Johnson" />
+  <sold-product>
+    <product>
+      <name>{ Name = Americaine, Price = 1165.75 }{ Name = Amitriptyline Hydrochloride, Price = 1453.96 }{ Name = Retin-A MICRO, Price = 995.98 }{ Name = Glyburide, Price = 95.10 }{ Name = LV-FX, Price = 820.87 }{ Name = Wintergreen Isopropyl Alcohol, Price = 1397.57 }</name>
+      <price>{ Name = Americaine, Price = 1165.75 }{ Name = Amitriptyline Hydrochloride, Price = 1453.96 }{ Name = Retin-A MICRO, Price = 995.98 }{ Name = Glyburide, Price = 95.10 }{ Name = LV-FX, Price = 820.87 }{ Name = Wintergreen Isopropyl Alcohol, Price = 1397.57 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Patrick" last-name="King" />
+  <sold-product>
+    <product>
+      <name>{ Name = Treatment Set TS336667, Price = 1466.47 }{ Name = Zonisamide, Price = 1305.41 }{ Name = Prednisone, Price = 550.72 }{ Name = Enalapril Maleate, Price = 72.71 }</name>
+      <price>{ Name = Treatment Set TS336667, Price = 1466.47 }{ Name = Zonisamide, Price = 1305.41 }{ Name = Prednisone, Price = 550.72 }{ Name = Enalapril Maleate, Price = 72.71 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Lawson" />
+  <sold-product>
+    <product>
+      <name>{ Name = Aquafresh, Price = 849.93 }{ Name = Shopko Lip Treatment, Price = 861.42 }{ Name = NEO-POLY-BAC HYDRO, Price = 967.32 }</name>
+      <price>{ Name = Aquafresh, Price = 849.93 }{ Name = Shopko Lip Treatment, Price = 861.42 }{ Name = NEO-POLY-BAC HYDRO, Price = 967.32 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Betty" last-name="Lawson" />
+  <sold-product>
+    <product>
+      <name>{ Name = Propranolol Hydrochloride, Price = 546.95 }{ Name = Pioglitazone, Price = 306.56 }{ Name = Glipizide and Metformin Hydrochloride, Price = 953.60 }</name>
+      <price>{ Name = Propranolol Hydrochloride, Price = 546.95 }{ Name = Pioglitazone, Price = 306.56 }{ Name = Glipizide and Metformin Hydrochloride, Price = 953.60 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Nicole" last-name="Martinez" />
+  <sold-product>
+    <product>
+      <name>{ Name = Warfarin Sodium, Price = 770.05 }{ Name = ERYTHROMYCIN Base Filmtab, Price = 117.84 }{ Name = equaline, Price = 520.45 }</name>
+      <price>{ Name = Warfarin Sodium, Price = 770.05 }{ Name = ERYTHROMYCIN Base Filmtab, Price = 117.84 }{ Name = equaline, Price = 520.45 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Mitchell" />
+  <sold-product>
+    <product>
+      <name>{ Name = RESCRIPTOR, Price = 850.52 }{ Name = Etoposide, Price = 1483.96 }{ Name = Glipizide, Price = 621.78 }</name>
+      <price>{ Name = RESCRIPTOR, Price = 850.52 }{ Name = Etoposide, Price = 1483.96 }{ Name = Glipizide, Price = 621.78 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Chris" last-name="Mitchell" />
+  <sold-product>
+    <product>
+      <name>{ Name = GOONG SECRET CALMING BATH, Price = 742.47 }{ Name = Clarins Paris Skin Illusion - 114 cappuccino, Price = 811.42 }{ Name = Cold and Cough, Price = 218.14 }</name>
+      <price>{ Name = GOONG SECRET CALMING BATH, Price = 742.47 }{ Name = Clarins Paris Skin Illusion - 114 cappuccino, Price = 811.42 }{ Name = Cold and Cough, Price = 218.14 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Moreno" />
+  <sold-product>
+    <product>
+      <name>{ Name = PAMO Kill Natural, Price = 1181.06 }{ Name = Budpak Hemorrhoid Anesthetic, Price = 1499.29 }</name>
+      <price>{ Name = PAMO Kill Natural, Price = 1181.06 }{ Name = Budpak Hemorrhoid Anesthetic, Price = 1499.29 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Joshua" last-name="Murray" />
+  <sold-product>
+    <product>
+      <name>{ Name = Nevirapine, Price = 1374.72 }{ Name = Imipramine Hydrochloride, Price = 648.69 }{ Name = MEDI-FIRST Non-Aspirin, Price = 1301.28 }{ Name = Lorazepam, Price = 1134.96 }{ Name = Alternaria alternata, Price = 61.24 }{ Name = Buprenorphine hydrochloride and naloxone hydrochloride dihydrate, Price = 293.33 }{ Name = Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride, Price = 1028.27 }</name>
+      <price>{ Name = Nevirapine, Price = 1374.72 }{ Name = Imipramine Hydrochloride, Price = 648.69 }{ Name = MEDI-FIRST Non-Aspirin, Price = 1301.28 }{ Name = Lorazepam, Price = 1134.96 }{ Name = Alternaria alternata, Price = 61.24 }{ Name = Buprenorphine hydrochloride and naloxone hydrochloride dihydrate, Price = 293.33 }{ Name = Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride, Price = 1028.27 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Anna" last-name="Parker" />
+  <sold-product>
+    <product>
+      <name>{ Name = Labetalol Hydrochloride, Price = 1345.11 }{ Name = Extra Strength Pain Reliever PM, Price = 542.72 }{ Name = Metoprolol Tartrate, Price = 1405.74 }{ Name = Warfarin Sodium, Price = 1379.79 }</name>
+      <price>{ Name = Labetalol Hydrochloride, Price = 1345.11 }{ Name = Extra Strength Pain Reliever PM, Price = 542.72 }{ Name = Metoprolol Tartrate, Price = 1405.74 }{ Name = Warfarin Sodium, Price = 1379.79 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Billy" last-name="Parker" />
+  <sold-product>
+    <product>
+      <name>{ Name = Care One Hemorrhoidal, Price = 932.18 }{ Name = SUMATRIPTAN SUCCINATE, Price = 1265.94 }{ Name = Ketorolac Tromethamine, Price = 608.18 }{ Name = Aspergillus repens, Price = 1231.42 }{ Name = ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20, Price = 1097.60 }</name>
+      <price>{ Name = Care One Hemorrhoidal, Price = 932.18 }{ Name = SUMATRIPTAN SUCCINATE, Price = 1265.94 }{ Name = Ketorolac Tromethamine, Price = 608.18 }{ Name = Aspergillus repens, Price = 1231.42 }{ Name = ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20, Price = 1097.60 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Emily" last-name="Parker" />
+  <sold-product>
+    <product>
+      <name>{ Name = VITALUMIERE AQUA, Price = 1293.09 }{ Name = smart sense nicotine, Price = 1444.12 }{ Name = Clearskin, Price = 968.59 }{ Name = EPZICOM, Price = 895.65 }{ Name = Allergena, Price = 109.32 }</name>
+      <price>{ Name = VITALUMIERE AQUA, Price = 1293.09 }{ Name = smart sense nicotine, Price = 1444.12 }{ Name = Clearskin, Price = 968.59 }{ Name = EPZICOM, Price = 895.65 }{ Name = Allergena, Price = 109.32 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Christina" last-name="Patterson" />
+  <sold-product>
+    <product>
+      <name>{ Name = Strattera, Price = 658.54 }{ Name = Aspirin, Price = 925.45 }{ Name = Myristica Argentum Sinus Relief, Price = 904.52 }{ Name = Acnezzol Base, Price = 710.60 }</name>
+      <price>{ Name = Strattera, Price = 658.54 }{ Name = Aspirin, Price = 925.45 }{ Name = Myristica Argentum Sinus Relief, Price = 904.52 }{ Name = Acnezzol Base, Price = 710.60 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Jacqueline" last-name="Perez" />
+  <sold-product>
+    <product>
+      <name>{ Name = PLANTAGO LANCEOLATA POLLEN, Price = 561.68 }{ Name = Agaricus Equisetum Special Order, Price = 585.93 }{ Name = Childrens Allegra Allergy, Price = 650.97 }{ Name = LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15, Price = 1069.43 }</name>
+      <price>{ Name = PLANTAGO LANCEOLATA POLLEN, Price = 561.68 }{ Name = Agaricus Equisetum Special Order, Price = 585.93 }{ Name = Childrens Allegra Allergy, Price = 650.97 }{ Name = LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15, Price = 1069.43 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Peterson" />
+  <sold-product>
+    <product>
+      <name>{ Name = Azithromycin, Price = 813.87 }{ Name = Lamotrigine Extended Release, Price = 245.63 }</name>
+      <price>{ Name = Azithromycin, Price = 813.87 }{ Name = Lamotrigine Extended Release, Price = 245.63 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Arthur" last-name="Reynolds" />
+  <sold-product>
+    <product>
+      <name>{ Name = Etodolac, Price = 1443.13 }{ Name = Head and Shoulders Conditioner, Price = 1099.59 }{ Name = Metaxalone, Price = 79.94 }</name>
+      <price>{ Name = Etodolac, Price = 1443.13 }{ Name = Head and Shoulders Conditioner, Price = 1099.59 }{ Name = Metaxalone, Price = 79.94 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Jennifer" last-name="Riley" />
+  <sold-product>
+    <product>
+      <name>{ Name = GEMCITABINE, Price = 1468.11 }{ Name = Pollens - Weeds and Garden Plants, Scotch Broom Cytisus scoparius, Price = 135.82 }{ Name = Etomidate, Price = 393.94 }{ Name = Benazepril Hydrochloride and Hydrochlorothiazide, Price = 1187.27 }</name>
+      <price>{ Name = GEMCITABINE, Price = 1468.11 }{ Name = Pollens - Weeds and Garden Plants, Scotch Broom Cytisus scoparius, Price = 135.82 }{ Name = Etomidate, Price = 393.94 }{ Name = Benazepril Hydrochloride and Hydrochlorothiazide, Price = 1187.27 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Sandra" last-name="Riley" />
+  <sold-product>
+    <product>
+      <name>{ Name = olio activ mouthwash, Price = 206.06 }{ Name = IOPE RETIGEN MOISTURE TWIN CAKE NO.21, Price = 1257.71 }{ Name = XtraCare Foam Antibacterial Hand Wash, Price = 1251.97 }{ Name = Peter Island Continous sunscreen kids, Price = 471.30 }{ Name = SNORING HP, Price = 53.59 }{ Name = Pleo Lat, Price = 720.08 }{ Name = Almond, Price = 367.32 }</name>
+      <price>{ Name = olio activ mouthwash, Price = 206.06 }{ Name = IOPE RETIGEN MOISTURE TWIN CAKE NO.21, Price = 1257.71 }{ Name = XtraCare Foam Antibacterial Hand Wash, Price = 1251.97 }{ Name = Peter Island Continous sunscreen kids, Price = 471.30 }{ Name = SNORING HP, Price = 53.59 }{ Name = Pleo Lat, Price = 720.08 }{ Name = Almond, Price = 367.32 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Jonathan" last-name="Rodriguez" />
+  <sold-product>
+    <product>
+      <name>{ Name = AVANDAMET, Price = 632.08 }{ Name = Growing Pains, Price = 1077.37 }{ Name = Glycopyrrolate, Price = 1471.43 }{ Name = DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER, Price = 555.12 }{ Name = ROPINIROLE HYDROCHLORIDE, Price = 266.44 }{ Name = H-Rosacea Formula, Price = 99.74 }</name>
+      <price>{ Name = AVANDAMET, Price = 632.08 }{ Name = Growing Pains, Price = 1077.37 }{ Name = Glycopyrrolate, Price = 1471.43 }{ Name = DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER, Price = 555.12 }{ Name = ROPINIROLE HYDROCHLORIDE, Price = 266.44 }{ Name = H-Rosacea Formula, Price = 99.74 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Schmidt" />
+  <sold-product>
+    <product>
+      <name>{ Name = Irbesartan and Hydrochlorothiazide, Price = 308.30 }{ Name = CD CAPTURE TOTALE Triple Correcting Serum Foundation Wrinkles-Dark Spots-Radiance with sunscreen Broad Spectrum SPF 25 010, Price = 77.23 }{ Name = Topex, Price = 1258.49 }</name>
+      <price>{ Name = Irbesartan and Hydrochlorothiazide, Price = 308.30 }{ Name = CD CAPTURE TOTALE Triple Correcting Serum Foundation Wrinkles-Dark Spots-Radiance with sunscreen Broad Spectrum SPF 25 010, Price = 77.23 }{ Name = Topex, Price = 1258.49 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Thomas" last-name="Snyder" />
+  <sold-product>
+    <product>
+      <name>{ Name = Pollens - Weeds and Garden Plants, Nettle Urtica dioica, Price = 782.77 }{ Name = TYLENOL COLD MULTI-SYMPTOM DAYTIME, Price = 1010.81 }{ Name = U-max Multi BB, Price = 137.16 }{ Name = Acetic Acid, Price = 1060.43 }</name>
+      <price>{ Name = Pollens - Weeds and Garden Plants, Nettle Urtica dioica, Price = 782.77 }{ Name = TYLENOL COLD MULTI-SYMPTOM DAYTIME, Price = 1010.81 }{ Name = U-max Multi BB, Price = 137.16 }{ Name = Acetic Acid, Price = 1060.43 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Ann" last-name="Stevens" />
+  <sold-product>
+    <product>
+      <name>{ Name = Prednisone, Price = 1285.99 }{ Name = Burn Jel, Price = 209.57 }{ Name = Leg Cramp Relief, Price = 1345.69 }{ Name = Moore Medical Sinus Pain and Pressure Relief, Price = 855.39 }</name>
+      <price>{ Name = Prednisone, Price = 1285.99 }{ Name = Burn Jel, Price = 209.57 }{ Name = Leg Cramp Relief, Price = 1345.69 }{ Name = Moore Medical Sinus Pain and Pressure Relief, Price = 855.39 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Gary" last-name="Stevens" />
+  <sold-product>
+    <product>
+      <name>{ Name = PREMIER VALUE ALLERGY, Price = 1127.61 }{ Name = Air, Price = 331.53 }{ Name = Ranitidine, Price = 926.64 }{ Name = Eszopiclone, Price = 405.03 }{ Name = Finasteride, Price = 1374.01 }</name>
+      <price>{ Name = PREMIER VALUE ALLERGY, Price = 1127.61 }{ Name = Air, Price = 331.53 }{ Name = Ranitidine, Price = 926.64 }{ Name = Eszopiclone, Price = 405.03 }{ Name = Finasteride, Price = 1374.01 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Stewart" />
+  <sold-product>
+    <product>
+      <name>{ Name = Allopurinol, Price = 336.81 }{ Name = CARBIDOPA AND LEVODOPA, Price = 441.64 }{ Name = Dover Aminophen, Price = 192.07 }{ Name = Baza Antifungal, Price = 1162.34 }{ Name = Buprenorphine hydrochloride, Price = 391.05 }</name>
+      <price>{ Name = Allopurinol, Price = 336.81 }{ Name = CARBIDOPA AND LEVODOPA, Price = 441.64 }{ Name = Dover Aminophen, Price = 192.07 }{ Name = Baza Antifungal, Price = 1162.34 }{ Name = Buprenorphine hydrochloride, Price = 391.05 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Eugene" last-name="Stewart" />
+  <sold-product>
+    <product>
+      <name>{ Name = Ibuprofen, Price = 1305.96 }{ Name = Yellow Jacket hymenoptera venom Venomil Diagnostic, Price = 23.58 }</name>
+      <price>{ Name = Ibuprofen, Price = 1305.96 }{ Name = Yellow Jacket hymenoptera venom Venomil Diagnostic, Price = 23.58 }</price>
+    </product>
+  </sold-product>
+  <user first-name="firstName doesn't exist" last-name="Thompson" />
+  <sold-product>
+    <product>
+      <name />
+      <price />
+    </product>
+  </sold-product>
+  <user first-name="Betty" last-name="Ward" />
+  <sold-product>
+    <product>
+      <name>{ Name = CLARINS Ever Matte SPF 15 - 105 Nude, Price = 696.06 }</name>
+      <price>{ Name = CLARINS Ever Matte SPF 15 - 105 Nude, Price = 696.06 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Marie" last-name="Williamson" />
+  <sold-product>
+    <product>
+      <name>{ Name = Prostate, Price = 716.05 }{ Name = REYATAZ, Price = 41.97 }{ Name = smart sense nighttime cold and flu relief, Price = 1101.77 }{ Name = Spironolactone, Price = 933.69 }{ Name = Phenylephrine HCl, Price = 459.89 }</name>
+      <price>{ Name = Prostate, Price = 716.05 }{ Name = REYATAZ, Price = 41.97 }{ Name = smart sense nighttime cold and flu relief, Price = 1101.77 }{ Name = Spironolactone, Price = 933.69 }{ Name = Phenylephrine HCl, Price = 459.89 }</price>
+    </product>
+  </sold-product>
+  <user first-name="Jeremy" last-name="Woods" />
+  <sold-product>
+    <product>
+      <name>{ Name = AIR, Price = 581.69 }{ Name = Echinacea Quartz Gum Support, Price = 570.08 }{ Name = Alcohol Free Antiseptic, Price = 1486.07 }{ Name = XANTHIUM STRUMARIUM VAR CANADENSE POLLEN, Price = 1091.38 }</name>
+      <price>{ Name = AIR, Price = 581.69 }{ Name = Echinacea Quartz Gum Support, Price = 570.08 }{ Name = Alcohol Free Antiseptic, Price = 1486.07 }{ Name = XANTHIUM STRUMARIUM VAR CANADENSE POLLEN, Price = 1091.38 }</price>
+    </product>
+  </sold-product>
+</users>

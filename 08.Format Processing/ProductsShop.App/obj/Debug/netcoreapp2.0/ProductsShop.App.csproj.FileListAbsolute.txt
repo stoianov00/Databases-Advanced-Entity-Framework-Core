@@ -1,0 +1,15 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.runtimeconfig.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.runtimeconfig.dev.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb

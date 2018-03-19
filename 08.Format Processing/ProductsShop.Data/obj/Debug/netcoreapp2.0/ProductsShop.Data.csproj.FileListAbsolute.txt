@@ -1,0 +1,11 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\08.Format Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
