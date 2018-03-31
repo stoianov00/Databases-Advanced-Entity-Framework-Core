@@ -1,0 +1,13 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\bin\Debug\netcoreapp2.0\Workshop.Services.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\bin\Debug\netcoreapp2.0\Workshop.Services.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\bin\Debug\netcoreapp2.0\Workshop.Services.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\obj\Debug\netcoreapp2.0\Workshop.Services.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\obj\Debug\netcoreapp2.0\Workshop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\obj\Debug\netcoreapp2.0\Workshop.Services.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\obj\Debug\netcoreapp2.0\Workshop.Services.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\obj\Debug\netcoreapp2.0\Workshop.Services.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\obj\Debug\netcoreapp2.0\Workshop.Services.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\bin\Debug\netcoreapp2.0\Workshop.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\bin\Debug\netcoreapp2.0\Workshop.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\bin\Debug\netcoreapp2.0\Workshop.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Services\bin\Debug\netcoreapp2.0\Workshop.Models.pdb
