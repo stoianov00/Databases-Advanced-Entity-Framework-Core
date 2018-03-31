@@ -1,0 +1,9 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Models\bin\Debug\netcoreapp2.0\Workshop.Models.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Models\bin\Debug\netcoreapp2.0\Workshop.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Models\bin\Debug\netcoreapp2.0\Workshop.Models.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Models\obj\Debug\netcoreapp2.0\Workshop.Models.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Models\obj\Debug\netcoreapp2.0\Workshop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Models\obj\Debug\netcoreapp2.0\Workshop.Models.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Models\obj\Debug\netcoreapp2.0\Workshop.Models.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Models\obj\Debug\netcoreapp2.0\Workshop.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\WorkShop\Workshop.Models\obj\Debug\netcoreapp2.0\Workshop.Models.pdb
