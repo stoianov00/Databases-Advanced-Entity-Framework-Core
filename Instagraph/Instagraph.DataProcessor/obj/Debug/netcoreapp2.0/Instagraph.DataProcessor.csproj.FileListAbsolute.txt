@@ -1,0 +1,13 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb

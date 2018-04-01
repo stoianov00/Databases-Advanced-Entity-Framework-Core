@@ -1,0 +1,11 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.pdb

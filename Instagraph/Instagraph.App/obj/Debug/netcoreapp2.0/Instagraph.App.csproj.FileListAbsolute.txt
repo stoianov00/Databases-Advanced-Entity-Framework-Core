@@ -1,0 +1,17 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.deps.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.runtimeconfig.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.runtimeconfig.dev.json
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.AssemblyInfoInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.AssemblyInfo.cs
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.dll
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# DATABASES ADVANCED - ENTITY FRAMEWORK\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.pdb
